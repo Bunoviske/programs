@@ -1,0 +1,156 @@
+ANALISE DAS METRICAS NO CENARIO 2
+
+N = 1000 
+
+ Tempo Quicksort recursivo: 0 ms 
+ Comparacoes Quicksort recursivo: 11929 
+ Copias Quicksort recursivo: 2757 
+
+ Tempo Quicksort/mediana k=3: 0 ms 
+ Comparacoes Quicksort/mediana k=3: 13833  
+ Copias Quicksort/mediana k=3: 3008 
+
+ Tempo Quicksort/mediana k=5: 0 ms 
+ Comparacoes Quicksort/mediana k=5: 11914 
+ Copias Quicksort/mediana k=5: 2769 
+
+ Tempo Quicksort/Insercao m=10: 0 ms 
+ Comparacoes Quicksort/Insercao m=10: 11301 
+ Copias Quicksort/Insercao m=10: 2685 
+
+ Tempo Quicksort/Insercao m=100: 0 ms 
+ Comparacoes Quicksort Insercao m=100: 18537 
+ Copias Quicksort Insercao m=100: 2100
+
+N = 5000 
+
+ Tempo Quicksort recursivo: 0 ms 
+ Comparacoes Quicksort recursivo: 78314 
+ Copias Quicksort recursivo: 16379 
+
+ Tempo Quicksort/mediana k=3: 1 ms 
+ Comparacoes Quicksort/mediana k=3: 95958  
+ Copias Quicksort/mediana k=3: 18214 
+
+ Tempo Quicksort/mediana k=5: 1 ms 
+ Comparacoes Quicksort/mediana k=5: 80462 
+ Copias Quicksort/mediana k=5: 16576 
+
+ Tempo Quicksort/Insercao m=10: 0 ms 
+ Comparacoes Quicksort/Insercao m=10: 75357 
+ Copias Quicksort/Insercao m=10: 15957 
+
+ Tempo Quicksort/Insercao m=100: 0 ms 
+ Comparacoes Quicksort Insercao m=100: 105488 
+ Copias Quicksort Insercao m=100: 13100
+
+N = 10000 
+
+ Tempo Quicksort recursivo: 1 ms 
+ Comparacoes Quicksort recursivo: 157499 
+ Copias Quicksort recursivo: 35046 
+
+ Tempo Quicksort/mediana k=3: 2 ms 
+ Comparacoes Quicksort/mediana k=3: 227568  
+ Copias Quicksort/mediana k=3: 34027 
+
+ Tempo Quicksort/mediana k=5: 2 ms 
+ Comparacoes Quicksort/mediana k=5: 171667 
+ Copias Quicksort/mediana k=5: 35618 
+
+ Tempo Quicksort/Insercao m=10: 3 ms 
+ Comparacoes Quicksort/Insercao m=10: 151546 
+ Copias Quicksort/Insercao m=10: 34207 
+
+ Tempo Quicksort/Insercao m=100: 1 ms 
+ Comparacoes Quicksort Insercao m=100: 209081 
+ Copias Quicksort Insercao m=100: 28618
+
+N = 50000 
+
+ Tempo Quicksort recursivo: 9 ms 
+ Comparacoes Quicksort recursivo: 1016583 
+ Copias Quicksort recursivo: 201590 
+
+ Tempo Quicksort/mediana k=3: 32 ms 
+ Comparacoes Quicksort/mediana k=3: 1173253  
+ Copias Quicksort/mediana k=3: 199711 
+
+ Tempo Quicksort/mediana k=5: 21 ms 
+ Comparacoes Quicksort/mediana k=5: 976640 
+ Copias Quicksort/mediana k=5: 194226 
+
+ Tempo Quicksort/Insercao m=10: 15 ms 
+ Comparacoes Quicksort/Insercao m=10: 982066 
+ Copias Quicksort/Insercao m=10: 197560 
+
+ Tempo Quicksort/Insercao m=100: 9 ms 
+ Comparacoes Quicksort Insercao m=100: 1290754 
+ Copias Quicksort Insercao m=100: 169195
+
+N = 100000 
+
+ Tempo Quicksort recursivo: 22 ms 
+ Comparacoes Quicksort recursivo: 2035811 
+ Copias Quicksort recursivo: 428260 
+
+ Tempo Quicksort/mediana k=3: 27 ms 
+ Comparacoes Quicksort/mediana k=3: 2467292  
+ Copias Quicksort/mediana k=3: 443397 
+
+ Tempo Quicksort/mediana k=5: 26 ms 
+ Comparacoes Quicksort/mediana k=5: 2305194 
+ Copias Quicksort/mediana k=5: 418919 
+
+ Tempo Quicksort/Insercao m=10: 17 ms 
+ Comparacoes Quicksort/Insercao m=10: 1958080 
+ Copias Quicksort/Insercao m=10: 420331 
+
+ Tempo Quicksort/Insercao m=100: 18 ms 
+ Comparacoes Quicksort Insercao m=100: 2562017 
+ Copias Quicksort Insercao m=100: 364277
+
+N = 500000 
+
+ Tempo Quicksort recursivo: 108 ms 
+ Comparacoes Quicksort recursivo: 12617278 
+ Copias Quicksort recursivo: 2349017 
+
+ Tempo Quicksort/mediana k=3: 141 ms 
+ Comparacoes Quicksort/mediana k=3: 14868772  
+ Copias Quicksort/mediana k=3: 2269650 
+
+ Tempo Quicksort/mediana k=5: 157 ms 
+ Comparacoes Quicksort/mediana k=5: 12755832 
+ Copias Quicksort/mediana k=5: 2212373 
+
+ Tempo Quicksort/Insercao m=10: 110 ms 
+ Comparacoes Quicksort/Insercao m=10: 11737609 
+ Copias Quicksort/Insercao m=10: 2333178 
+
+ Tempo Quicksort/Insercao m=100: 99 ms 
+ Comparacoes Quicksort Insercao m=100: 14465245 
+ Copias Quicksort Insercao m=100: 2081450
+
+N = 1000000 
+
+ Tempo Quicksort recursivo: 227 ms 
+ Comparacoes Quicksort recursivo: 27150920 
+ Copias Quicksort recursivo: 4805577 
+
+ Tempo Quicksort/mediana k=3: 534 ms 
+ Comparacoes Quicksort/mediana k=3: 31858654  
+ Copias Quicksort/mediana k=3: 4738366 
+
+ Tempo Quicksort/mediana k=5: 310 ms 
+ Comparacoes Quicksort/mediana k=5: 26496213 
+ Copias Quicksort/mediana k=5: 4642556 
+
+ Tempo Quicksort/Insercao m=10: 199 ms 
+ Comparacoes Quicksort/Insercao m=10: 24202072 
+ Copias Quicksort/Insercao m=10: 4804064 
+
+ Tempo Quicksort/Insercao m=100: 203 ms 
+ Comparacoes Quicksort Insercao m=100: 28321190 
+ Copias Quicksort Insercao m=100: 4402727
+

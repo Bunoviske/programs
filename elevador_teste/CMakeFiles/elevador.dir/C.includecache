@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruno/programas/elevador_teste/in_out.c
+in_out.h
+/home/bruno/programas/elevador_teste/in_out.h
+
+/home/bruno/programas/elevador_teste/in_out.h
+lista.h
+/home/bruno/programas/elevador_teste/lista.h
+
+/home/bruno/programas/elevador_teste/lista.c
+lista.h
+/home/bruno/programas/elevador_teste/lista.h
+
+/home/bruno/programas/elevador_teste/lista.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/time.h
+-
+sys/resource.h
+-
+math.h
+-
+
+/home/bruno/programas/elevador_teste/logica.c
+logica.h
+/home/bruno/programas/elevador_teste/logica.h
+
+/home/bruno/programas/elevador_teste/logica.h
+in_out.h
+/home/bruno/programas/elevador_teste/in_out.h
+
+/home/bruno/programas/elevador_teste/main.c
+logica.h
+/home/bruno/programas/elevador_teste/logica.h
+

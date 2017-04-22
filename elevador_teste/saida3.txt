@@ -1,0 +1,34 @@
+Saida dos dados na ordem de atendimento:
+
+Andar de chamada: 9 Andar de destino: 10 Tempo de chamada: 8 Tempo de espera: 4 Tempo no elevador: 1
+Andar de chamada: 6 Andar de destino: 11 Tempo de chamada: 4 Tempo de espera: 3 Tempo no elevador: 8
+Andar de chamada: 13 Andar de destino: 16 Tempo de chamada: 11 Tempo de espera: 9 Tempo no elevador: 4
+Andar de chamada: 12 Andar de destino: 17 Tempo de chamada: 4 Tempo de espera: 14 Tempo no elevador: 8
+Andar de chamada: 11 Andar de destino: 18 Tempo de chamada: 6 Tempo de espera: 10 Tempo no elevador: 12
+Andar de chamada: 11 Andar de destino: 19 Tempo de chamada: 13 Tempo de espera: 3 Tempo no elevador: 14
+Andar de chamada: 9 Andar de destino: 19 Tempo de chamada: 1 Tempo de espera: 11 Tempo no elevador: 18
+Andar de chamada: 15 Andar de destino: 13 Tempo de chamada: 7 Tempo de espera: 29 Tempo no elevador: 2
+Andar de chamada: 13 Andar de destino: 8 Tempo de chamada: 2 Tempo de espera: 18 Tempo no elevador: 24
+Andar de chamada: 18 Andar de destino: 8 Tempo de chamada: 9 Tempo de espera: 20 Tempo no elevador: 15
+Andar de chamada: 14 Andar de destino: 2 Tempo de chamada: 10 Tempo de espera: 12 Tempo no elevador: 32
+Andar de chamada: 2 Andar de destino: 0 Tempo de chamada: 6 Tempo de espera: 49 Tempo no elevador: 2
+Andar de chamada: 2 Andar de destino: 0 Tempo de chamada: 3 Tempo de espera: 52 Tempo no elevador: 2
+Andar de chamada: 5 Andar de destino: 0 Tempo de chamada: 10 Tempo de espera: 39 Tempo no elevador: 8
+Andar de chamada: 3 Andar de destino: 0 Tempo de chamada: 0 Tempo de espera: 3 Tempo no elevador: 54
+Andar de chamada: 8 Andar de destino: 0 Tempo de chamada: 10 Tempo de espera: 0 Tempo no elevador: 47
+Andar de chamada: 8 Andar de destino: 0 Tempo de chamada: 7 Tempo de espera: 3 Tempo no elevador: 47
+Andar de chamada: 18 Andar de destino: 0 Tempo de chamada: 13 Tempo de espera: 16 Tempo no elevador: 28
+Andar de chamada: 0 Andar de destino: 3 Tempo de chamada: 7 Tempo de espera: 51 Tempo no elevador: 3
+Andar de chamada: 0 Andar de destino: 7 Tempo de chamada: 9 Tempo de espera: 49 Tempo no elevador: 8
+Andar de chamada: 4 Andar de destino: 9 Tempo de chamada: 12 Tempo de espera: 39 Tempo no elevador: 18
+Andar de chamada: 0 Andar de destino: 9 Tempo de chamada: 8 Tempo de espera: 50 Tempo no elevador: 11
+Andar de chamada: 3 Andar de destino: 12 Tempo de chamada: 13 Tempo de espera: 40 Tempo no elevador: 20
+Andar de chamada: 0 Andar de destino: 15 Tempo de chamada: 1 Tempo de espera: 57 Tempo no elevador: 19
+Andar de chamada: 0 Andar de destino: 15 Tempo de chamada: 4 Tempo de espera: 54 Tempo no elevador: 19
+Andar de chamada: 2 Andar de destino: 16 Tempo de chamada: 6 Tempo de espera: 49 Tempo no elevador: 24
+Andar de chamada: 0 Andar de destino: 16 Tempo de chamada: 5 Tempo de espera: 53 Tempo no elevador: 21
+Andar de chamada: 0 Andar de destino: 19 Tempo de chamada: 6 Tempo de espera: 52 Tempo no elevador: 25
+Andar de chamada: 0 Andar de destino: 1 Tempo de chamada: 13 Tempo de espera: 92 Tempo no elevador: 1
+Andar de chamada: 0 Andar de destino: 10 Tempo de chamada: 9 Tempo de espera: 96 Tempo no elevador: 11
+Andar de chamada: 0 Andar de destino: 13 Tempo de chamada: 11 Tempo de espera: 94 Tempo no elevador: 15
+Andar de chamada: 1 Andar de destino: 14 Tempo de chamada: 9 Tempo de espera: 94 Tempo no elevador: 19

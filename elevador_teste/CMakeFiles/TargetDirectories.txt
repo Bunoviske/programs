@@ -1,0 +1,1 @@
+/home/bruno/programas/elevador_teste/CMakeFiles/elevador.dir

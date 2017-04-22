@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/elevador.dir/main.c.o CMakeFiles/elevador.dir/logica.c.o CMakeFiles/elevador.dir/in_out.c.o CMakeFiles/elevador.dir/lista.c.o  -o elevador -rdynamic 

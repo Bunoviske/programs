@@ -1,0 +1,72 @@
+ANALISE DAS METRICAS NO CENARIO 1
+
+N = 1000 
+
+ Tempo de ordenacao do vetor: 0 ms 
+ Comparacoes no vetor: 11365 
+ Copias no vetor: 2748 
+
+ Tempo de ordenacao da lista: 0 ms 
+ Comparacoes na lista: 10186 
+ Copias na lista: 5196
+
+N = 5000 
+
+ Tempo de ordenacao do vetor: 0 ms 
+ Comparacoes no vetor: 78460 
+ Copias no vetor: 16297 
+
+ Tempo de ordenacao da lista: 0 ms 
+ Comparacoes na lista: 72656 
+ Copias na lista: 30834
+
+N = 10000 
+
+ Tempo de ordenacao do vetor: 1 ms 
+ Comparacoes no vetor: 155594 
+ Copias no vetor: 35337 
+
+ Tempo de ordenacao da lista: 2 ms 
+ Comparacoes na lista: 143845 
+ Copias na lista: 67518
+
+N = 50000 
+
+ Tempo de ordenacao do vetor: 10 ms 
+ Comparacoes no vetor: 963732 
+ Copias no vetor: 201583 
+
+ Tempo de ordenacao da lista: 39 ms 
+ Comparacoes na lista: 903220 
+ Copias na lista: 391170
+
+N = 100000 
+
+ Tempo de ordenacao do vetor: 22 ms 
+ Comparacoes no vetor: 2042675 
+ Copias no vetor: 427429 
+
+ Tempo de ordenacao da lista: 39 ms 
+ Comparacoes na lista: 1916701 
+ Copias na lista: 842292
+
+N = 500000 
+
+ Tempo de ordenacao do vetor: 105 ms 
+ Comparacoes no vetor: 12152233 
+ Copias no vetor: 2349558 
+
+ Tempo de ordenacao da lista: 309 ms 
+ Comparacoes na lista: 11343385 
+ Copias na lista: 5127766
+
+N = 1000000 
+
+ Tempo de ordenacao do vetor: 223 ms 
+ Comparacoes no vetor: 28287846 
+ Copias no vetor: 4751661 
+
+ Tempo de ordenacao da lista: 1207 ms 
+ Comparacoes na lista: 26487734 
+ Copias na lista: 10903690
+

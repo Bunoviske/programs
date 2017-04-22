@@ -1,0 +1,22 @@
+Saida dos dados na ordem de atendimento:
+
+Andar de chamada: 12 Andar de destino: 14 Tempo de chamada: 7 Tempo de espera: 11 Tempo no elevador: 2
+Andar de chamada: 10 Andar de destino: 15 Tempo de chamada: 0 Tempo de espera: 14 Tempo no elevador: 8
+Andar de chamada: 15 Andar de destino: 16 Tempo de chamada: 1 Tempo de espera: 22 Tempo no elevador: 1
+Andar de chamada: 12 Andar de destino: 18 Tempo de chamada: 6 Tempo de espera: 12 Tempo no elevador: 10
+Andar de chamada: 6 Andar de destino: 19 Tempo de chamada: 1 Tempo de espera: 6 Tempo no elevador: 23
+Andar de chamada: 12 Andar de destino: 6 Tempo de chamada: 4 Tempo de espera: 14 Tempo no elevador: 27
+Andar de chamada: 17 Andar de destino: 4 Tempo de chamada: 2 Tempo de espera: 25 Tempo no elevador: 21
+Andar de chamada: 5 Andar de destino: 0 Tempo de chamada: 2 Tempo de espera: 3 Tempo no elevador: 49
+Andar de chamada: 7 Andar de destino: 0 Tempo de chamada: 6 Tempo de espera: 3 Tempo no elevador: 45
+Andar de chamada: 8 Andar de destino: 0 Tempo de chamada: 0 Tempo de espera: 11 Tempo no elevador: 43
+Andar de chamada: 10 Andar de destino: 0 Tempo de chamada: 0 Tempo de espera: 14 Tempo no elevador: 40
+Andar de chamada: 11 Andar de destino: 0 Tempo de chamada: 7 Tempo de espera: 9 Tempo no elevador: 38
+Andar de chamada: 19 Andar de destino: 0 Tempo de chamada: 4 Tempo de espera: 27 Tempo no elevador: 23
+Andar de chamada: 0 Andar de destino: 2 Tempo de chamada: 8 Tempo de espera: 47 Tempo no elevador: 2
+Andar de chamada: 0 Andar de destino: 4 Tempo de chamada: 5 Tempo de espera: 50 Tempo no elevador: 5
+Andar de chamada: 1 Andar de destino: 7 Tempo de chamada: 8 Tempo de espera: 45 Tempo no elevador: 11
+Andar de chamada: 0 Andar de destino: 7 Tempo de chamada: 1 Tempo de espera: 54 Tempo no elevador: 9
+Andar de chamada: 0 Andar de destino: 8 Tempo de chamada: 4 Tempo de espera: 51 Tempo no elevador: 11
+Andar de chamada: 0 Andar de destino: 12 Tempo de chamada: 3 Tempo de espera: 52 Tempo no elevador: 16
+Andar de chamada: 13 Andar de destino: 17 Tempo de chamada: 8 Tempo de espera: 30 Tempo no elevador: 39
