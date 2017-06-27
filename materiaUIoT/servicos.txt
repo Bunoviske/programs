@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "message": "Success",
+  "tokenId": "4c9adfb96a364c6805b28f90a342b65c",
+  "services": [
+    {
+      "service_id": 1151,
+      "service_name": "cadastro"
+    },
+    {
+      "service_id": 1151,
+      "service_name": "Get temp"
+    }
+  ]
+}
