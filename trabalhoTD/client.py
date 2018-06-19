@@ -108,9 +108,9 @@ def main():
         clienteObject.connect()
 
     else:
-        print("Execucao invalida. Faça conforme umas das opcoes abaixo\n \
-        1) python client.py host port login password\n \
-        2) python client.py host port")
+        print("Execucao invalida. Faça conforme uma das opcoes abaixo\n \
+        1) python client.py host 5005 login password\n \
+        2) python client.py host 5005")
 
 def autentMessage(login, passwd, operation): # criacao da mensagem de autenticacao serve tanto para login quanto para logout
     msg = json.dumps({

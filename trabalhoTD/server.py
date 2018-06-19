@@ -74,7 +74,7 @@ class server(object):
 
 ############################# Main + functions ################################
 
-serverObject = server('0.0.0.0',5006) #porta de operacao do servidor
+serverObject = server('0.0.0.0',5005) #porta de operacao do servidor
 
 def main():
     serverObject.listen()
