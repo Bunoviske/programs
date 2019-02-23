@@ -1,0 +1,14 @@
+{
+  "name": "mypackage",
+  "version": "0.0.1",
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true,
+      "jquery": true
+    }
+  },
+  "devDependencies": {
+    "jsonwebtoken": "^8.4.0"
+  }
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> BI </title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+</head>
+
+<body>
+    <center>
+        <p>
+            Business Intelligence Version <span id="version">VAR</span>
+        </p>
+
+        <p>
+            Deixe seus dados se tiver interessado
+        </p>
+
+        <!-- Begin lemlist Sign Up Form -->
+        <div id="lemlist-embed-sign-up-div">
+            <form action="https://app.lemlist.com/api/form/cam_AhYEjCziHh99ks7Hm" method="post" id="lemlist-embed-sign-up-form"
+                name="lemlist-embed-sign-up-form" class="validate" target="_blank">
+                <div class="lemlist-field-group">
+                    <label for="lemlist-email">Email</label>
+                    <input type="email" value="" name="email" id="lemlist-email" required>
+                </div>
+                <div class="lemlist-field-group">
+                    <label for="lemlist-firstName">First Name</label>
+                    <input type="text" value="" name="firstName" id="lemlist-firstName">
+                </div>
+                <div class="lemlist-field-group">
+                    <label for="lemlist-lastName">Last Name</label>
+                    <input type="text" value="" name="lastName" id="lemlist-lastName">
+                </div>
+                <div class="lemlist-field-group">
+                    <label for="lemlist-lastName">Company Name</label>
+                    <input type="text" value="" name="companyName" id="lemlist-companyName">
+                </div>
+                <div class="lemlist-clear">
+                    <input type="submit" value="Subscribe" name="subscribe" id="lemlist-embed-sign-up">
+                </div>
+            </form>
+        </div>
+        <!-- End lemlist Sign Up Form -->
+
+    </center>
+
+    <iframe id="bi" src="" frameborder="0" class="biFrame" allowtransparency></iframe>
+
+
+    <script src="bundle.js"></script>
+</body>
+
+</html>

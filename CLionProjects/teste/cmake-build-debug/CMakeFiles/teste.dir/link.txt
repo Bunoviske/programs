@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/teste.dir/main.cpp.o CMakeFiles/teste.dir/cluster.cpp.o CMakeFiles/teste.dir/ellipse.cpp.o  -o teste 
